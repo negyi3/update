@@ -1,0 +1,16 @@
+{
+
+"homepage": "https://www.curseforge.com/minecraft/mc-mods/kelproject",
+
+"1.18.2": {
+
+"1.0.0": "MODが更新されました。",
+"1.0.1": "MODが更新されました。",
+"1.0.2": "MODが更新されました。"
+},
+
+"promos": {
+ "1.18.2-latest": "1.0.2",
+ "1.18.2-recommended": "1.0.2"
+}
+}
